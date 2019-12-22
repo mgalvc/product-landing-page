@@ -1,0 +1,68 @@
+nav a {
+    color: black;
+}
+
+.nav-item {
+    width: 160px;
+    text-align: center;
+}
+
+#first-content {
+    text-align: center;
+    padding: 30px;
+    margin-top: 200px;
+}
+
+#first-content form {
+    width: 300px;
+}
+
+#news {
+    margin-top: 20px;
+}
+
+#second-content {
+    width: 60%;
+    margin-top: 40px;
+}
+
+#second-content .row {
+    margin-bottom: 50px;
+}
+
+#third-content {
+    width: 60%;
+    margin-top: 50px;
+}
+
+#fourth-content {
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    width: 30%;
+    text-align: center;
+    border: 1px solid black;
+    padding-bottom: 10px;
+}
+
+#fourth-content h4 {
+    padding: 10px;
+    margin-bottom: 0;
+}
+
+#fourth-content h5 {
+    padding: 10px;
+    margin-bottom: 0;
+}
+
+#fourth-content p {
+    margin-bottom: 0;
+}
+
+footer {
+    padding: 30px;
+}
+
+footer .container {
+    width: 60%;
+}
